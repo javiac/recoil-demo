@@ -97,4 +97,4 @@ export default App;
 
 ### Result
 
-![Alt text](client/assets/result.gif "screenshot")
+![Alt text](client/assets/result.gif "result")
